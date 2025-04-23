@@ -1,4 +1,4 @@
-# Sistema de Catálogo de Jogos com simulação de pagamento em C#
+# Sistema de gerenciamento de Tarefas em c# 
 Esse é um projeto que desenvolvi em C# depois de cerca de 1 mês e meio estudando C#. É um sistema de console que permite adicionar tarefas simples, tarefas com sub-tarefas, marcar como concluída, adicionar uma descrição etc.
 
 ### Oque o sistema faz?
