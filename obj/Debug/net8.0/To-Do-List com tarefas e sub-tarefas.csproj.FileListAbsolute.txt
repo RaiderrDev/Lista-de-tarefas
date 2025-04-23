@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\bin\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.exe
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\bin\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.deps.json
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\bin\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.runtimeconfig.json
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\bin\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\bin\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.pdb
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.AssemblyInfo.cs
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\refint\To-Do-List com tarefas e sub-tarefas.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.pdb
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\To-Do-List com tarefas e sub-tarefas.genruntimeconfig.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\To-Do-List com tarefas e sub-tarefas\obj\Debug\net8.0\ref\To-Do-List com tarefas e sub-tarefas.dll
